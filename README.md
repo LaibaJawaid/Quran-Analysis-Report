@@ -57,3 +57,9 @@ Built with **Matplotlib** & **Seaborn**:
 * Data fetched via **requests** from a Quran API and cleaned with pandas.
 
 ---
+
+## Future Work
+
+Will turn this into a live project on **Streamlit** and more, Inshallah.
+
+---
